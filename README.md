@@ -1,17 +1,17 @@
 # Projetos_Java
 Projetos feitos usando a Linguagem de Programação Java para fins de Estudos e Treino.
 
-# Gerador de Histórias
+## Gerador de Histórias
 projeto Java com interface gráfica que gera histórias curtas e aleatórias com base em gêneros literários. O usuário pode escolher entre **Comédia**, **Terror** ou **Fantasia**, e o programa monta automaticamente uma história com início, meio e fim, exibindo-a em uma área de texto.
 
-## 📋 Funcionalidades
+### 📋 Funcionalidades
 
 - Interface gráfica amigável com `Swing`.
 - Escolha de gênero da história via menu suspenso (`JComboBox`).
 - Geração aleatória de histórias com base no gênero selecionado.
 - Área de exibição com barra de rolagem para visualizar a história completa.
 
-## 🧰 Bibliotecas Utilizadas
+### 🧰 Bibliotecas Utilizadas
 
 Este projeto utiliza **apenas bibliotecas padrão do Java**, principalmente do pacote `javax.swing` para a interface gráfica:
 
