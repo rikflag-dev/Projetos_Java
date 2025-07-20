@@ -6,7 +6,7 @@ projeto Java com interface gráfica que gera histórias curtas e aleatórias com
 
 ### 📋 Funcionalidades
 
-- Interface gráfica amigável com `Swing`.
+- Interface gráfica com `Swing`.
 - Escolha de gênero da história via menu suspenso (`JComboBox`).
 - Geração aleatória de histórias com base no gênero selecionado.
 - Área de exibição com barra de rolagem para visualizar a história completa.
