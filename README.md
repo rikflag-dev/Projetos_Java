@@ -11,3 +11,8 @@ projeto Java com interface gráfica que gera histórias curtas e aleatórias com
 ### Calendário da Produtividade
 
 Um aplicativo de produtividade simples desenvolvido em **Java com Swing**, que permite aos usuários marcar tarefas em um calendário mensal com **cores por tipo de atividade** (estudo, trabalho, lazer) e visualizar as tarefas de cada dia.
+
+### RPG de Texto
+
+Um jogo simples de RPG em modo texto feito em **Java**, utilizando **Swing** como biblioteca gráfica.
+O jogador pode explorar uma floresta, enfrentar inimigos, descansar para recuperar vida e mana, e tomar decisões que influenciam o desfecho.
