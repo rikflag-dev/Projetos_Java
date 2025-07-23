@@ -25,7 +25,7 @@ O jogador pode explorar uma floresta, enfrentar inimigos, descansar para recuper
 
 Este projeto é uma aplicação Java Swing para visualização de relatórios financeiros mensais, focado no acompanhamento e análise de despesas por categoria. A interface gráfica exibe um gráfico de pizza (pie chart) interativo que representa a distribuição dos gastos, além de alertas para controle financeiro, como aviso quando os gastos ultrapassam 70% das receitas.
 
-### Tocador de Música Minimalista com Playlists e Controle de Volume
+### Tocador de Música Minimalista com Playlists
 
 Este é um aplicativo desktop simples feito em Java utilizando Swing, que permite reproduzir arquivos `.mp3` com suporte a playlists e controle de volume. O player utiliza a biblioteca JLayer para decodificar e tocar as músicas em formato MP3.
 Para rodar corretamente é necessário entrar na pasta do projeto e rodar no terminal esses dois comandos:
