@@ -27,7 +27,7 @@ Este projeto é uma aplicação Java Swing para visualização de relatórios fi
 
 ### Tocador de Música Minimalista com Playlists
 
-Este é um aplicativo desktop simples feito em Java utilizando Swing, que permite reproduzir arquivos `.mp3` com suporte a playlists e controle de volume. O player utiliza a biblioteca JLayer para decodificar e tocar as músicas em formato MP3.
+Este é um aplicativo desktop simples feito em Java utilizando Swing, que permite reproduzir arquivos `.mp3` com suporte a playlists. O player utiliza a biblioteca JLayer para decodificar e tocar as músicas em formato MP3.
 Para rodar corretamente é necessário entrar na pasta do projeto e rodar no terminal esses dois comandos:
 **javac -cp ".;jl1.0.1.jar" MusicPlayer.java** | 
 **java -cp ".;jl1.0.1.jar" MusicPlayer**
