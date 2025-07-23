@@ -17,6 +17,13 @@ Um aplicativo de produtividade simples desenvolvido em **Java com Swing**, que p
 Um jogo simples de RPG em modo texto feito em **Java**, utilizando **Swing** como biblioteca gráfica.
 O jogador pode explorar uma floresta, enfrentar inimigos, descansar para recuperar vida e mana, e tomar decisões que influenciam o desfecho.
 
+### Tocador de Música Minimalista com Playlists
+
+Este é um aplicativo desktop simples feito em Java utilizando Swing, que permite reproduzir arquivos `.mp3` com suporte a playlists. O player utiliza a biblioteca JLayer para decodificar e tocar as músicas em formato MP3.
+Para rodar corretamente é necessário entrar na pasta do projeto e rodar no terminal esses dois comandos:
+**javac -cp ".;jl1.0.1.jar" MusicPlayer.java** | 
+**java -cp ".;jl1.0.1.jar" MusicPlayer**
+
 ---
 
 ## Intermediários
@@ -24,10 +31,3 @@ O jogador pode explorar uma floresta, enfrentar inimigos, descansar para recuper
 ### Sistema de Relatórios Financeiros
 
 Este projeto é uma aplicação Java Swing para visualização de relatórios financeiros mensais, focado no acompanhamento e análise de despesas por categoria. A interface gráfica exibe um gráfico de pizza (pie chart) interativo que representa a distribuição dos gastos, além de alertas para controle financeiro, como aviso quando os gastos ultrapassam 70% das receitas.
-
-### Tocador de Música Minimalista com Playlists
-
-Este é um aplicativo desktop simples feito em Java utilizando Swing, que permite reproduzir arquivos `.mp3` com suporte a playlists. O player utiliza a biblioteca JLayer para decodificar e tocar as músicas em formato MP3.
-Para rodar corretamente é necessário entrar na pasta do projeto e rodar no terminal esses dois comandos:
-**javac -cp ".;jl1.0.1.jar" MusicPlayer.java** | 
-**java -cp ".;jl1.0.1.jar" MusicPlayer**
