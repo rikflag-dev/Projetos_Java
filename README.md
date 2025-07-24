@@ -31,3 +31,8 @@ Para rodar corretamente é necessário entrar na pasta do projeto e rodar no ter
 ### Sistema de Relatórios Financeiros
 
 Este projeto é uma aplicação Java Swing para visualização de relatórios financeiros mensais, focado no acompanhamento e análise de despesas por categoria. A interface gráfica exibe um gráfico de pizza (pie chart) interativo que representa a distribuição dos gastos, além de alertas para controle financeiro, como aviso quando os gastos ultrapassam 70% das receitas.
+
+### Jogo de Importor
+
+Este é um jogo simples desenvolvido em Java utilizando Swing, onde o jogador precisa identificar o impostor entre vários bots (NPCs) em diferentes salas. O jogo simula um ambiente de "sala" semelhante ao estilo Among Us, com bots se movendo aleatoriamente entre salas.
+Após um tempo de exploração, inicia-se a fase de votação, onde o jogador pode votar em qual bot acredita ser o impostor. Se o jogador acertar, vence; caso contrário, perde. O jogo termina após a votação.
