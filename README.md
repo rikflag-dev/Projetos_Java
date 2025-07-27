@@ -19,7 +19,7 @@ O jogador pode explorar uma floresta, enfrentar inimigos, descansar para recuper
 
 ### Tocador de Música Minimalista com Playlists
 
-Este é um aplicativo desktop simples feito em Java utilizando Swing, que permite reproduzir arquivos `.mp3` com suporte a playlists. O player utiliza a biblioteca JLayer para decodificar e tocar as músicas em formato MP3.
+Um aplicativo desktop simples feito em Java utilizando Swing, que permite reproduzir arquivos `.mp3` com suporte a playlists. O player utiliza a biblioteca JLayer para decodificar e tocar as músicas em formato MP3.
 Para rodar corretamente é necessário entrar na pasta do projeto e rodar no terminal esses dois comandos:
 **javac -cp ".;jl1.0.1.jar" MusicPlayer.java** | 
 **java -cp ".;jl1.0.1.jar" MusicPlayer**
@@ -31,7 +31,11 @@ O conteúdo salvo é criptografado em **Base64** e armazenado localmente em um a
 
 ### Jogo da Memória
 
-Este é um jogo da memória simples desenvolvido em Java utilizando a biblioteca Swing para interface gráfica. O jogo consiste em encontrar pares de cartas iguais em um tabuleiro 4x4. O tempo é cronometrado e, ao final, o jogador pode salvar seu tempo no ranking local em um arquivo (`ranking.txt`).
+Um jogo da memória simples desenvolvido em Java utilizando a biblioteca Swing para interface gráfica. O jogo consiste em encontrar pares de cartas iguais em um tabuleiro 4x4. O tempo é cronometrado e, ao final, o jogador pode salvar seu tempo no ranking local em um arquivo (`ranking.txt`).
+
+### Gerador de Paletas de Cores Aleatórias
+
+Este projeto é uma aplicação desktop em Java utilizando Swing que gera paletas de cores aleatórias visualmente agradáveis. A interface exibe cinco cores diferentes, mostrando seus respectivos códigos hexadecimais. O usuário pode clicar nos códigos para copiá-los facilmente para a área de transferência.
 
 ---
 
