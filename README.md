@@ -29,6 +29,10 @@ Para rodar corretamente é necessário entrar na pasta do projeto e rodar no ter
 **Cofre Virtual**, desenvolvido em **Java com Swing**, onde o usuário pode armazenar frases ou senhas pessoais protegidas por uma senha mestra.
 O conteúdo salvo é criptografado em **Base64** e armazenado localmente em um arquivo (`cofre.txt`).
 
+### Jogo da Memória
+
+Este é um jogo da memória simples desenvolvido em Java utilizando a biblioteca Swing para interface gráfica. O jogo consiste em encontrar pares de cartas iguais em um tabuleiro 4x4. O tempo é cronometrado e, ao final, o jogador pode salvar seu tempo no ranking local em um arquivo (`ranking.txt`).
+
 ---
 
 ## Intermediários
