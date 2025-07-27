@@ -24,6 +24,11 @@ Para rodar corretamente é necessário entrar na pasta do projeto e rodar no ter
 **javac -cp ".;jl1.0.1.jar" MusicPlayer.java** | 
 **java -cp ".;jl1.0.1.jar" MusicPlayer**
 
+### Cofre Virtual com Senha
+
+**Cofre Virtual**, desenvolvido em **Java com Swing**, onde o usuário pode armazenar frases ou senhas pessoais protegidas por uma senha mestra.
+O conteúdo salvo é criptografado em **Base64** e armazenado localmente em um arquivo (`cofre.txt`).
+
 ---
 
 ## Intermediários
